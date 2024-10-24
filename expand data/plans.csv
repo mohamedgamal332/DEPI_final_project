@@ -1,0 +1,130 @@
+InternetService,bundle,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies
+DSL,DSL_plan_1,True,True,True,True,True,True
+DSL,DSL_plan_2,True,True,True,True,True,False
+DSL,DSL_plan_3,True,True,True,True,False,True
+DSL,DSL_plan_4,True,True,True,True,False,False
+DSL,DSL_plan_5,True,True,True,False,True,True
+DSL,DSL_plan_6,True,True,True,False,True,False
+DSL,DSL_plan_7,True,True,True,False,False,True
+DSL,DSL_plan_8,True,True,True,False,False,False
+DSL,DSL_plan_9,True,True,False,True,True,True
+DSL,DSL_plan_10,True,True,False,True,True,False
+DSL,DSL_plan_11,True,True,False,True,False,True
+DSL,DSL_plan_12,True,True,False,True,False,False
+DSL,DSL_plan_13,True,True,False,False,True,True
+DSL,DSL_plan_14,True,True,False,False,True,False
+DSL,DSL_plan_15,True,True,False,False,False,True
+DSL,DSL_plan_16,True,True,False,False,False,False
+DSL,DSL_plan_17,True,False,True,True,True,True
+DSL,DSL_plan_18,True,False,True,True,True,False
+DSL,DSL_plan_19,True,False,True,True,False,True
+DSL,DSL_plan_20,True,False,True,True,False,False
+DSL,DSL_plan_21,True,False,True,False,True,True
+DSL,DSL_plan_22,True,False,True,False,True,False
+DSL,DSL_plan_23,True,False,True,False,False,True
+DSL,DSL_plan_24,True,False,True,False,False,False
+DSL,DSL_plan_25,True,False,False,True,True,True
+DSL,DSL_plan_26,True,False,False,True,True,False
+DSL,DSL_plan_27,True,False,False,True,False,True
+DSL,DSL_plan_28,True,False,False,True,False,False
+DSL,DSL_plan_29,True,False,False,False,True,True
+DSL,DSL_plan_30,True,False,False,False,True,False
+DSL,DSL_plan_31,True,False,False,False,False,True
+DSL,DSL_plan_32,True,False,False,False,False,False
+DSL,DSL_plan_33,False,True,True,True,True,True
+DSL,DSL_plan_34,False,True,True,True,True,False
+DSL,DSL_plan_35,False,True,True,True,False,True
+DSL,DSL_plan_36,False,True,True,True,False,False
+DSL,DSL_plan_37,False,True,True,False,True,True
+DSL,DSL_plan_38,False,True,True,False,True,False
+DSL,DSL_plan_39,False,True,True,False,False,True
+DSL,DSL_plan_40,False,True,True,False,False,False
+DSL,DSL_plan_41,False,True,False,True,True,True
+DSL,DSL_plan_42,False,True,False,True,True,False
+DSL,DSL_plan_43,False,True,False,True,False,True
+DSL,DSL_plan_44,False,True,False,True,False,False
+DSL,DSL_plan_45,False,True,False,False,True,True
+DSL,DSL_plan_46,False,True,False,False,True,False
+DSL,DSL_plan_47,False,True,False,False,False,True
+DSL,DSL_plan_48,False,True,False,False,False,False
+DSL,DSL_plan_49,False,False,True,True,True,True
+DSL,DSL_plan_50,False,False,True,True,True,False
+DSL,DSL_plan_51,False,False,True,True,False,True
+DSL,DSL_plan_52,False,False,True,True,False,False
+DSL,DSL_plan_53,False,False,True,False,True,True
+DSL,DSL_plan_54,False,False,True,False,True,False
+DSL,DSL_plan_55,False,False,True,False,False,True
+DSL,DSL_plan_56,False,False,True,False,False,False
+DSL,DSL_plan_57,False,False,False,True,True,True
+DSL,DSL_plan_58,False,False,False,True,True,False
+DSL,DSL_plan_59,False,False,False,True,False,True
+DSL,DSL_plan_60,False,False,False,True,False,False
+DSL,DSL_plan_61,False,False,False,False,True,True
+DSL,DSL_plan_62,False,False,False,False,True,False
+DSL,DSL_plan_63,False,False,False,False,False,True
+DSL,DSL_plan_64,False,False,False,False,False,False
+Fiber optic,Fiber optic_plan_1,True,True,True,True,True,True
+Fiber optic,Fiber optic_plan_2,True,True,True,True,True,False
+Fiber optic,Fiber optic_plan_3,True,True,True,True,False,True
+Fiber optic,Fiber optic_plan_4,True,True,True,True,False,False
+Fiber optic,Fiber optic_plan_5,True,True,True,False,True,True
+Fiber optic,Fiber optic_plan_6,True,True,True,False,True,False
+Fiber optic,Fiber optic_plan_7,True,True,True,False,False,True
+Fiber optic,Fiber optic_plan_8,True,True,True,False,False,False
+Fiber optic,Fiber optic_plan_9,True,True,False,True,True,True
+Fiber optic,Fiber optic_plan_10,True,True,False,True,True,False
+Fiber optic,Fiber optic_plan_11,True,True,False,True,False,True
+Fiber optic,Fiber optic_plan_12,True,True,False,True,False,False
+Fiber optic,Fiber optic_plan_13,True,True,False,False,True,True
+Fiber optic,Fiber optic_plan_14,True,True,False,False,True,False
+Fiber optic,Fiber optic_plan_15,True,True,False,False,False,True
+Fiber optic,Fiber optic_plan_16,True,True,False,False,False,False
+Fiber optic,Fiber optic_plan_17,True,False,True,True,True,True
+Fiber optic,Fiber optic_plan_18,True,False,True,True,True,False
+Fiber optic,Fiber optic_plan_19,True,False,True,True,False,True
+Fiber optic,Fiber optic_plan_20,True,False,True,True,False,False
+Fiber optic,Fiber optic_plan_21,True,False,True,False,True,True
+Fiber optic,Fiber optic_plan_22,True,False,True,False,True,False
+Fiber optic,Fiber optic_plan_23,True,False,True,False,False,True
+Fiber optic,Fiber optic_plan_24,True,False,True,False,False,False
+Fiber optic,Fiber optic_plan_25,True,False,False,True,True,True
+Fiber optic,Fiber optic_plan_26,True,False,False,True,True,False
+Fiber optic,Fiber optic_plan_27,True,False,False,True,False,True
+Fiber optic,Fiber optic_plan_28,True,False,False,True,False,False
+Fiber optic,Fiber optic_plan_29,True,False,False,False,True,True
+Fiber optic,Fiber optic_plan_30,True,False,False,False,True,False
+Fiber optic,Fiber optic_plan_31,True,False,False,False,False,True
+Fiber optic,Fiber optic_plan_32,True,False,False,False,False,False
+Fiber optic,Fiber optic_plan_33,False,True,True,True,True,True
+Fiber optic,Fiber optic_plan_34,False,True,True,True,True,False
+Fiber optic,Fiber optic_plan_35,False,True,True,True,False,True
+Fiber optic,Fiber optic_plan_36,False,True,True,True,False,False
+Fiber optic,Fiber optic_plan_37,False,True,True,False,True,True
+Fiber optic,Fiber optic_plan_38,False,True,True,False,True,False
+Fiber optic,Fiber optic_plan_39,False,True,True,False,False,True
+Fiber optic,Fiber optic_plan_40,False,True,True,False,False,False
+Fiber optic,Fiber optic_plan_41,False,True,False,True,True,True
+Fiber optic,Fiber optic_plan_42,False,True,False,True,True,False
+Fiber optic,Fiber optic_plan_43,False,True,False,True,False,True
+Fiber optic,Fiber optic_plan_44,False,True,False,True,False,False
+Fiber optic,Fiber optic_plan_45,False,True,False,False,True,True
+Fiber optic,Fiber optic_plan_46,False,True,False,False,True,False
+Fiber optic,Fiber optic_plan_47,False,True,False,False,False,True
+Fiber optic,Fiber optic_plan_48,False,True,False,False,False,False
+Fiber optic,Fiber optic_plan_49,False,False,True,True,True,True
+Fiber optic,Fiber optic_plan_50,False,False,True,True,True,False
+Fiber optic,Fiber optic_plan_51,False,False,True,True,False,True
+Fiber optic,Fiber optic_plan_52,False,False,True,True,False,False
+Fiber optic,Fiber optic_plan_53,False,False,True,False,True,True
+Fiber optic,Fiber optic_plan_54,False,False,True,False,True,False
+Fiber optic,Fiber optic_plan_55,False,False,True,False,False,True
+Fiber optic,Fiber optic_plan_56,False,False,True,False,False,False
+Fiber optic,Fiber optic_plan_57,False,False,False,True,True,True
+Fiber optic,Fiber optic_plan_58,False,False,False,True,True,False
+Fiber optic,Fiber optic_plan_59,False,False,False,True,False,True
+Fiber optic,Fiber optic_plan_60,False,False,False,True,False,False
+Fiber optic,Fiber optic_plan_61,False,False,False,False,True,True
+Fiber optic,Fiber optic_plan_62,False,False,False,False,True,False
+Fiber optic,Fiber optic_plan_63,False,False,False,False,False,True
+Fiber optic,Fiber optic_plan_64,False,False,False,False,False,False
+No_unknown,No_unknown_plan,False,False,False,False,False,False
