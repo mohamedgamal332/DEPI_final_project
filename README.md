@@ -1,6 +1,6 @@
 **Graduation Project - Digital Egypt Pioneers Initiative (DEPI) - First Batch of 2024**
 
-This repository hosts the graduation project from the Digital Egypt Pioneers Initiative (DEPI), First Batch of 2024. The project focuses on developing a comprehensive system involving database creation, data warehousing, data science analysis, and Power BI visualizations, with data flowing across multiple local computers.
+This repository hosts the graduation project from the Digital Egypt Pioneers Initiative (DEPI), First Batch of 2024. The project **"Telecom Customer data management and analytics"** focuses on developing a comprehensive system involving database creation, data warehousing, data science analysis, and Power BI visualizations, with data flowing across multiple local computers.
 
 ### Key Components:
 - **Database & Data Warehouse**: A well-structured database and data warehouse system to store and organize large datasets.
